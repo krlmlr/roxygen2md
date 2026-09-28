@@ -1,5 +1,16 @@
 # Changelog
 
+## roxygen2md 1.0.1.9038
+
+### Continuous integration
+
+- Run coverage checks after pkgdown push.
+
+### Uncategorized
+
+- Feat(ci): Render `README.md` and `index.md` in CI
+  (cynkra/cynkratemplate#118).
+
 ## roxygen2md 1.0.1.9037
 
 ### Documentation
