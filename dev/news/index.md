@@ -1,5 +1,13 @@
 # Changelog
 
+## roxygen2md 1.0.1.9040
+
+### Chore
+
+- Auto-update from GitHub Actions.
+
+  Run: <https://github.com/r-lib/roxygen2md/actions/runs/38032688028>
+
 ## roxygen2md 1.0.1.9039
 
 ### Chore
